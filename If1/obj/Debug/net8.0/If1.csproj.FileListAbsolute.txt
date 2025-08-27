@@ -1,0 +1,15 @@
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\bin\Debug\net8.0\If1.exe
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\bin\Debug\net8.0\If1.deps.json
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\bin\Debug\net8.0\If1.runtimeconfig.json
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\bin\Debug\net8.0\If1.dll
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\bin\Debug\net8.0\If1.pdb
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.AssemblyInfoInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.AssemblyInfo.cs
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.csproj.CoreCompileInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.sourcelink.json
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.dll
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\refint\If1.dll
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.pdb
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\If1.genruntimeconfig.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\if1\obj\Debug\net8.0\ref\If1.dll
