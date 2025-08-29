@@ -1,0 +1,10 @@
+C:\Users\pearl\OneDrive\Documentos\LECR\if4bucle while\obj\Debug\net8.0\sesion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearl\OneDrive\Documentos\LECR\if4bucle while\obj\Debug\net8.0\sesion3.AssemblyInfoInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\if4bucle while\obj\Debug\net8.0\sesion3.AssemblyInfo.cs
+C:\Users\pearl\OneDrive\Documentos\LECR\if4bucle while\obj\Debug\net8.0\sesion3.csproj.CoreCompileInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\if4bucle while\obj\Debug\net8.0\sesion3.sourcelink.json
+C:\Users\pearl\OneDrive\Documentos\LECR\sesion3\obj\Debug\net8.0\sesion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pearl\OneDrive\Documentos\LECR\sesion3\obj\Debug\net8.0\sesion3.AssemblyInfoInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\sesion3\obj\Debug\net8.0\sesion3.AssemblyInfo.cs
+C:\Users\pearl\OneDrive\Documentos\LECR\sesion3\obj\Debug\net8.0\sesion3.csproj.CoreCompileInputs.cache
+C:\Users\pearl\OneDrive\Documentos\LECR\sesion3\obj\Debug\net8.0\sesion3.sourcelink.json
